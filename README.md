@@ -3,7 +3,7 @@
 
 A private, no-signup resume studio with live preview and browser-native PDF export. An editorial forest-and-mint workspace surrounds a clean white resume, with a responsive editor that works on phones too.
 
-![QuickCV desktop, fictional resume](10-desktop.png)
+![QuickCV desktop, fictional resume](desktop.svg)
 
 ## Features
 - Live preview for contact details, summary, education, experience, projects and skills.
@@ -30,7 +30,7 @@ The app does not upload your information. Details are saved under `quickcv.v1` i
 ## Screenshots
 Actual Chromium screenshots, not mockups. Desktop at 1440px and mobile at 390px.
 
-<img src="11-mobile.png" alt="QuickCV on a phone" width="310">
+<img src="mobile.svg" alt="QuickCV on a phone" width="310">
 
 ## Test
 With Node.js installed:
